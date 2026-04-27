@@ -209,5 +209,9 @@ MIT License - feel free to use this project!
 - [Google Fonts](https://fonts.google.com) - Inter font
 
 ---
-
-Made with ❤️ for groceries shopping
+**
+Made with ❤️ for groceries shopping by team members :
+Team leader   : Vasamsetti Jahnavi devi
+Team member 1 : Srungaram Venkata Sesha Sri Hasini
+Team member 2 : Sadu Hemanjali
+Team member 1 : Kandregula Shanmukha Priya
